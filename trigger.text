@@ -1,0 +1,3 @@
+git add trigger.txt
+git commit -m "Trigger GitHub Action"
+git push origin main
